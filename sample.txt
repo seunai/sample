@@ -1,3 +1,8 @@
+git bash here
+
 git add sample.txt
 git commit m- "first commit"
 git push origin master
+
+
+
